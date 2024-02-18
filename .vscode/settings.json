@@ -8,6 +8,7 @@
     "datetime",
     "errno",
     "immer",
+    "lowcode",
     "mockjs",
     "Popconfirm",
     "reduxjs",
