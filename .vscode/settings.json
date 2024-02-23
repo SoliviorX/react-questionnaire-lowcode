@@ -1,11 +1,14 @@
 {
   "cSpell.words": [
     "ahooks",
+    "Appstore",
+    "clonedeep",
     "commitlint",
     "concat",
     "craco",
     "ctitle",
     "datetime",
+    "downarrow",
     "errno",
     "immer",
     "lowcode",
@@ -14,6 +17,9 @@
     "reduxjs",
     "Sider",
     "solivior",
+    "undoable",
+    "uparrow",
+    "Vertival",
     "wenjuan"
   ]
 }
